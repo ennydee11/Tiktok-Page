@@ -1,0 +1,653 @@
+.images-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+}
+
+@media (min-width: 360px) and (max-width: 631px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 631px) and (max-width: 740px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 741px) and (max-width: 889px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 890px) and (max-width: 1009px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1010px) and (max-width: 1120px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1121px) and (max-width: 1199px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1330px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1331px) {
+    .images-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+.image-1 {
+    margin-left: -7px;
+    width: 148px;
+    height: 300px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-1 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -5px;
+    position: absolute;
+}
+
+.o {
+    color: white;
+    margin-top: -25px;
+    margin-left: 20px;
+    position: absolute; 
+}
+
+.image-2 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-2 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.t {
+    color: white;
+    margin-top: -25px;
+    margin-left: 21px;
+    position: absolute;
+}
+
+.image-3 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-3 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -2px;
+    position: absolute;
+}
+
+.th {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-4 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-4 {
+    color: white;
+    height: 22px;
+    width: 22px;
+    margin-top: -27px;
+    margin-left: -4px;
+    position: absolute;
+}
+
+.f {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px ;
+    position: absolute;
+}
+
+.image-5 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-5 {
+    color: white;
+    height: 22px;
+    width: 22px;
+    margin-top: -27px;
+    margin-left: -4px;
+    position: absolute;
+}
+
+.fi {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-6 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-6 {
+    color: white;
+    height: 22px;
+    width: 22px;
+    margin-top: -27px;
+    margin-left: -2px;
+    position: absolute;
+}
+
+.s {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-7 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-7 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -4px;
+    position: absolute;
+}
+
+.se {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-8 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-8 {
+    color: white;
+    height: 22px;
+    width: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.ei {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-9 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-9 {
+    color: white;
+    height: 22px;
+    width: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.n {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-10 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -1px;
+    position: relative;
+}
+
+.repost-10 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.te {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-11 {
+    height: 300px;
+    width: 148px;
+    margin-left: -7px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-11 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.el {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-12 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-12 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.tw {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-13 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-13 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.thir {
+    color: white;
+    margin-top: -25px;
+    margin-left: 22px;
+    position: absolute;
+}
+
+.image-14 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-14 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-15 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-15 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-16 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-16 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-17 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-17 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-18 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-18 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-19 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-19 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-20 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-20 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-21 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    margin-left: -7px;
+    position: relative;
+}
+
+.repost-21 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-22 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-22 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-23 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-23 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-24 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-24 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-25 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-25 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-26 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-26 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-27 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-27 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-28 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-28 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-29 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-29 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    margin-left: -3px;
+    position: absolute;
+}
+
+.image-30 {
+    height: 300px;
+    width: 148px;
+    margin-left: -6px;
+    margin-top: -2px;
+    position: relative;
+}
+
+.repost-30 {
+    color: white;
+    width: 22px;
+    height: 22px;
+    margin-top: -27px;
+    position: absolute;
+}

@@ -1,0 +1,154 @@
+.last-section {
+    background-color: white;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 80px;
+    justify-content: center;
+}
+
+.last-section-a {
+    display: flex;
+    justify-content: space-between;
+}
+
+.house {
+    color: grey;
+    width: 30px;
+    height: 30px;
+}
+
+.house-section {
+    margin-left: 27px;
+    margin-top: 7px;
+}
+
+.home {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: -4px;
+    opacity: 0.7;
+}
+
+.friends-pic {
+    border-radius: 22px;
+    width: 37px;
+    height: 37px;
+    position: relative;
+}
+
+.friends {
+    margin-top: 7px;
+}
+
+.fr {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: -4px;
+    margin-top: -3px;
+    opacity: 0.7;
+}
+
+.friend {
+    background-color: red;
+    margin-top: -46px;
+    margin-left: 25px;
+    width: 24px;
+    height: 18px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    color: white;
+}
+
+.one {
+    margin-top: 2px;
+    margin-left: 4px;
+}
+
+.plus-2 {
+    color: white;
+    margin-left: 6px;
+    margin-top: 2px;
+    width: 25px;
+    height: 25px;
+}
+
+.plus-black {
+    background-color: black;
+    width: 37px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.plus-red {
+    background-color: red;
+    width: 41px;
+    height: 30px;
+    margin-left: 4px;
+    border-radius: 8px;
+}
+
+.plus-blue {
+    background-color: aqua;
+    width: 41px;
+    height: 30px;
+    border-radius: 8px;
+    margin-top: 13px;
+}
+
+.message-minus {
+    color: grey;
+    width: 27px;
+    height: 27px;
+    position: relative;
+}
+
+.message-section {
+    margin-top: 10px;
+}
+
+.inb {
+    margin-left: -3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+.seven-1 {
+    background-color: red;
+    margin-top: -37px;
+    margin-left: 15px;
+    width: 24px;
+    height: 18px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    position: absolute;
+    color: white;
+}
+
+.seven {
+    margin-top: 2px;
+    margin-left: 5px;
+}
+
+.user-p {
+    width: 29px;
+    height: 29px;
+}
+
+.pro {
+    margin-right: 20px;
+    margin-top: 8px;
+}
+
+.prof {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    margin-left: -5px;
+    margin-top: -3px;
+}

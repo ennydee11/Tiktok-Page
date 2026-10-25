@@ -1,0 +1,60 @@
+.section-a {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    height: 57px;
+}
+
+.lines {
+    color: grey;
+    width: 40px;
+    height: 40px;
+    margin-left: 45px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.arrow {
+    color: grey;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 2px;
+}
+
+.lock {
+    color: grey;
+    width: 35px;
+    height: 35px;
+    margin-top: 9px;
+}
+
+.repost {
+    width: 47px;
+    height: 47px;
+    position: relative;
+}
+
+.underline {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    margin-top: 17px;
+    margin-left: -57px;
+}
+
+.save {
+    color: grey;
+    width: 35px;
+    height: 35px;
+    margin-top: 9px;
+}
+
+.heart {
+    color: grey;
+    width: 35px;
+    height: 35px;
+    margin-right: 45px;
+    margin-top: 9px;
+}

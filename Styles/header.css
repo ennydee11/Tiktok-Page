@@ -1,0 +1,52 @@
+.header {
+    background-color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+}
+
+.user {
+    width: 120px;
+}
+
+.user-plus {
+    width: 37px;
+    height: 37px;
+    margin-left: 15px;
+    margin-top: 35px;
+}
+
+.hey {
+    flex: 1;
+}
+
+.second-header {
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 15px;
+}
+
+.foot-print {
+    width: 37px;
+    height: 37px;
+    margin-top: 35px;
+}
+
+.share {
+    width: 37px;
+    height: 37px;
+    margin-top: 35px;
+}
+
+.menu {
+    width: 37px;
+    height: 37px;
+    margin-top: 35px;
+}
